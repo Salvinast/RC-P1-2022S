@@ -3,7 +3,7 @@ import React from "react";
 export default function Main() {
     return (
         <section className="main">
-            <h1 className="mainName">Funn facts about React</h1>
+            <h1 className="mainName">Fun facts about React</h1>
             <ul className="list">
                 <li>Was first released in 2013</li>
                 <li>Was originally created by Jordan Walke</li>
